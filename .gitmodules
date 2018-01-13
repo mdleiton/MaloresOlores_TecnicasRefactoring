@@ -1,3 +1,6 @@
 [submodule "Refactoring-Exercise"]
 	path = Refactoring-Exercise
 	url = https://github.com/harshmanocha/Refactoring-Exercise.git
+[submodule "CodeSmells"]
+	path = CodeSmells
+	url = https://github.com/ayjindal/CodeSmells.git
