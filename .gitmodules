@@ -4,3 +4,6 @@
 [submodule "CodeSmells"]
 	path = CodeSmells
 	url = https://github.com/ayjindal/CodeSmells.git
+[submodule "Refactoring"]
+	path = Refactoring
+	url = https://github.com/harshmanocha/Refactoring.git
